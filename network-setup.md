@@ -14,10 +14,10 @@
 ### **Switches**
 - **Switch 1**:
   - **Model**
-  - Hosts connected: 2 PCs, 1 laptop, 1 server
+  - Hosts connected: 3 PCs, 1 laptop, 1 server
 - **Switch 2**:
   - **Model**
-  - Hosts connected: 2 servers, 1 PC
+  - Hosts connected: 3 servers, 1 PC
 
 ### **Hosts and IP Addresses**
 
@@ -28,6 +28,8 @@
 | PC4      | Desktop | `168.90.0.5`        |
 | Laptop0  | Laptop  | `168.90.0.3`        |
 | Server0  | Server  | `168.90.0.2`        |
+| PC0      | Desktop | `168.90.0.64`        |
+
 
 #### **Hosts Connected to Switch 2**
 | Device   | Type    | Assigned IP Address |
@@ -35,6 +37,7 @@
 | PC2      | Desktop | `210.3.14.3`        |
 | Server1  | Server  | `210.3.14.4`        |
 | Server2  | Server  | `210.3.14.2`        |
+| PC5      | Desktop | `210.3.14.5`        |
 
 
 
